@@ -7,6 +7,18 @@
     max-height: 100px;
 }
 
+/*Make profile smaller */
+.profile-pic img {
+    max-height: 100px;
+    margin-left: 30px;
+
+}
+
+/* Add a space between the profile bio and images */
+.profile {
+    margin-bottom: 30px;
+}
+
 /* Make image square */
 .gallery .picture img {
     object-fit: cover;
