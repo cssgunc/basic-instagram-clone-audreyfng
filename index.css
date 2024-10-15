@@ -1,1 +1,15 @@
+* {
+    font-family: 'Arial';
+}
 
+/* Instgram logo header */
+.instagram-header img {
+    max-height: 100px;
+}
+
+/* Make image square */
+.gallery .picture img {
+    object-fit: cover;
+    width: 33vh;
+    height: 33vh; 
+}
